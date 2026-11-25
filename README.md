@@ -16,3 +16,9 @@
 - 👤 [Explore the creator's projects](https://go.ondev.store/Stark36-YB).
 - 🌍 [Create with OMGithub](https://go.ondev.store/).
 <!-- omgithub:readme:end -->
+
+## ASHFALL
+
+A complete, single-file survival game set in a ruined quarantine city. Open `index.html` in a modern browser, or serve this folder with `python3 -m http.server 3002`.
+
+**Survive:** use WASD to move, Shift to sprint, Space/click to swing your hatchet, E to scavenge, R to use a medkit, and F to fire when you have ammo. Find food and water to keep your vitals up. Survive five minutes to reach extraction. Mobile players can use the on-screen controls.
